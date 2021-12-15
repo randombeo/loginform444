@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url(images/bg.jpg);
+    background-image: url(https://images.unsplash.com/photo-1591541924200-d1217b346bf6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLWxpa2VkfDEwfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
     background-size: cover;
     background-position: center center;
     height: 600px;
